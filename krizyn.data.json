@@ -21,7 +21,7 @@
       }
     },
     "signedPreKey": {
-      "keyPair"crvrgrb: {
+      "keyPair": {
         "private": {
           "type": "Buffer",
           "data": "COK/IefPEnUSt65Lju9zSf+Bg8f2lmTvxm0y3fGjL2g="
@@ -49,14 +49,14 @@
       "deviceSignature": "o/U7XbALBNfMU/sctEzPDZHojzvgx2qBGAYAf70RHpUL5SFhX9Wb02wERmTBoSoh8p+v2edyvLG27niJPgL8Dg=="
     },
     "me": {
-      "id": "6283843192208:10@s.whatsapp.net",
-      "verifiedName": "ArullBotzMD¹",
-      "name": "ArullBotzMD¹"
+      "id": "6281957376275:10@s.whatsapp.net",
+      "verifiedName": "Arsyad",
+      "name": "Arsyad"
     },
     "signalIdentities": [
       {
         "identifier": {
-          "name": "6283843192208:10@s.whatsapp.net",
+          "name": "6281957376275:10@s.whatsapp.net",
           "deviceId": 0
         },
         "identifierKey": {
@@ -363,7 +363,7 @@
       }
     },
     "sessions": {
-      "6283843192208.0": {
+      "6281957376275.0": {
         "_sessions": {
           "BcE4jrPDlLe12BJ3Kdd8+KACKAduoNrFK7zFOZIma+Qk": {
             "registrationId": 1093403439,
